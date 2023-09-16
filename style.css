@@ -1,0 +1,309 @@
+.container {
+    width: 1085px;
+    height: 1700.8499755859375px;
+    background-color: #FAFAFA;
+    margin: 0 auto;
+
+}
+
+.header {
+    width: 1085px;
+    height: 83px;
+    background-color: #ffffff;
+   
+}
+
+.logo {
+    width: 207px;
+    height: 34.24632263183594px;
+    position: relative;
+    top: 24px;
+    left: 53px;
+    padding: 0px 0.000003814697265625px 0px 0px;
+    display: flex;
+    gap: 3px;
+    
+}
+
+.logo-avater {
+    width: 34.24632263183594px;
+    height: 34.24632263183594px;
+
+}
+
+.logo-para {
+    margin-top: 6px;
+    width: 168.18768310546875px;
+    height: 22px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #0E0E0E;     
+}
+
+.home {
+    width: 104px;
+    height: 20px;
+    position: relative;
+    top: -17px;
+    left: 824px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #090909;  
+}
+
+
+.me {
+    width: 104px;
+    height: 20px;
+    position: relative;
+    top: -53px;
+    left: 928px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #090909;
+        
+}
+
+
+
+.avater {
+    width: 182px;
+    height: 189.61294555664062px;
+    position: relative;
+    top: 180.23651123046875px;
+    left: 53px;
+    
+
+
+}
+
+
+
+.main {
+    width: 911px;
+    height: 536px;
+    position: relative;
+    top: -2px;
+    left: 121px;
+}
+
+.main-para {
+    margin-left: 147px;
+    width: 764px;
+    height: 128px;
+}
+
+
+.para-I {       
+    width: 764px;
+    height: 78px;
+    font-family: Source Sans Pro;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #151515;
+    margin-bottom: -6px;
+
+}
+
+.para-II {
+    width: 713px;
+    height: 40px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #151515;
+    padding-right:10px ;
+}
+
+
+.second-para {
+    width: 844px;
+    height: 309px;
+    margin-top: 95px;
+}
+
+.title {
+    font-family: Source Sans Pro;
+    color: #151515;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 25px;
+    
+
+}
+
+.hich {
+
+    font-family: Source Sans Pro;
+    color: #151515;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom:  27px;
+}
+
+.part-sub {
+    margin: 60px auto -68px auto;
+    width: 309px;
+    height: 26px;
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #141414;
+}
+
+.part-II {
+    display: flex;
+    gap: 26px;
+    margin: 100px auto 0 -67px;
+    width: 979px;
+    height: 447px;
+    border-radius: 3px;
+
+}
+
+
+.part-sub::first-letter {
+    text-transform: capitalize;
+}
+
+
+.sub-image {
+    width: 309px;
+    height: 232px;
+    border-radius: 3px;
+    
+}
+
+.image-I {
+    width: 309px;
+    height: 393px;
+    border-radius: 3px;
+    
+
+}
+
+.image-II {
+    width: 309px;
+    height: 393px;
+    border-radius: 3px;
+    
+    
+}
+
+
+.image-III {
+    width: 309px;
+    height: 393px;
+    border-radius: 3px;
+    
+}
+
+.date {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-left: 10px;
+
+        
+
+}
+
+.day {
+    margin-left: 10px;
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #141414;  
+
+
+}
+
+.simple {
+    margin-left: 10px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #505050;
+    
+    
+
+}
+
+.bottom {
+    margin: 51px auto 0 -78px;
+    width: 1000px;
+    height: 105px;
+    background-color: #202020;
+    
+
+    
+}
+
+.sub-bottom {
+    padding-top: 40px;
+}
+
+.bottom-I {
+    margin: 0px auto 3px auto;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 13px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: #ECECEC;
+    
+    
+
+}
+
+.bottom-II {
+    margin: 0 auto;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #D7D7D7;
+    
+
+}
+
